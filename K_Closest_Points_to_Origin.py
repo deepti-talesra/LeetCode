@@ -1,3 +1,5 @@
+# Video Explanation: https://www.youtube.com/watch?v=3OxgmzezTG8
+
 import random
 class Solution:
     
