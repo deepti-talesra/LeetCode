@@ -1,3 +1,5 @@
+# Video Explanation: https://www.youtube.com/watch?v=CHlCkJadQ7o
+
 class Solution:
     def leastInterval(self, tasks: List[str], n: int) -> int:
         d = {}
