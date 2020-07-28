@@ -1,3 +1,5 @@
+# Video Explanation: https://www.youtube.com/watch?v=NfiLJi8QRWA
+
 class Solution:
     
     def sortColors(self, nums: List[int]) -> None:
