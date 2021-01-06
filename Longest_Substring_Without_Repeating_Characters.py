@@ -1,4 +1,4 @@
-# Video Explanation: 
+# Video Explanation: https://www.youtube.com/watch?v=302mmnX1voo
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
